@@ -11,7 +11,8 @@ The overall workshop day theme is "from numbers to narratives" and is focused on
 	a. requirements and expectations
 	b. benefits
 2. Scope of sharing
-	a. expanding context requires different information
+	a. data lifecycle
+	b. expanding context requires different information
 3. In process data
 	a. OneDrive and Sharepoint
 		i. this is a problem for Macs we know
